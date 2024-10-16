@@ -1,19 +1,23 @@
 //
-//  ViewController.swift
+//  MovieDetailsViewController.swift
 //  Movies
 //
-//  Created by Nour on 14/10/2024.
+//  Created by Nour on 16/10/2024.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class MovieDetailsViewController: UIViewController {
 
+    
+    
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
+
         // Do any additional setup after loading the view.
     }
-
+    
 
 }
-
