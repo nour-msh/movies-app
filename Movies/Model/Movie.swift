@@ -7,12 +7,10 @@
 
 import Foundation
 struct Movie {
-    
-var name: String
-var rating: Double
-var time: String
-var imageName: String
-var desc: String
-var genre:String
-
+    let name: String
+    let rating: Double
+    let time: String
+    let imageName: String
+    let desc: String
+    let genre: String
 }
